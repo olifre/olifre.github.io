@@ -1,6 +1,13 @@
 theme: jekyll-theme-midnight
+
 #title: olifre.github.io
 description: Collection of my Projects
 show_downloads: false
 google_analytics:
+
 my_github_url: https://github.com/olifre
+
+collections:
+  knowledgebase:
+    output: true
+    permalink: /:collection/:title/
