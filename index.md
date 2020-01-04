@@ -1,10 +1,9 @@
 # Welcome
 
-This page is a collection of some of the projects I have worked on,
+This page is a collection of some of the projects I am working on,
 and some collected technical information in form of a knowledgebase.
 
-### Links to projects
-
+### Links to technical projects
 - [An HTCondor tutorial]({{ site.url }}/gridka-school-2019-htcondor/), made for [GridKa School 2019](https://indico.scc.kit.edu/event/460/overview)
 - [Puppet HTCondor](https://github.com/HEP-Puppet/htcondor), a [Puppet](https://puppet.com/) module for the [HTCondor](https://research.cs.wisc.edu/htcondor/) workload management system I am co-maintaining
 - [Open-source media player mpv](https://mpv.io/), I am maintaining the [DVB](https://en.wikipedia.org/wiki/Digital_Video_Broadcasting) related parts
@@ -19,3 +18,5 @@ and some collected technical information in form of a knowledgebase.
 - [{{ page.title }}: {{ page.subtitle }}]({{ page.url }})
 {% endfor %}
 
+### Other projects
+- [LifeLines]({{ site.url }}/lifelines/), a personal, somewhat poetic blog
