@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+	  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=ascii" />
+    <title>IRC Intro</title>
+    <link rel="stylesheet" type="text/css" href="formats.css" />
+    <!-- <style type="text/css"></style> -->
+  </head>
+  <body>
+    <h1>Irssi installieren (einmalig!)</h1>
+    <p>Unter Ubuntu:</p>
+    <pre>sudo apt-get install irssi</pre>
+    <p>Unter Gentoo:</p>
+    <pre>sudo emerge -av irssi</pre>
+    <h1>Irssi einrichten (einmalig!)</h1>
+    <p>Dazu zun&auml;chst einmal irssi starten:</p>
+    <pre>irssi</pre>
+    <p>
+      Eine sch&ouml;ne konsolenbasierte Anwendung erscheint. Nun sind folgende Einstellungen vorzunehmen (Befehle zeilenweise eingeben und jeweils mit Return abschlie&szlig;en):
+    </p>
+    <pre>
+      /set dcc_autoget ON<br />
+      /set dcc_autoresume ON<br />
+    </pre>
+    <p>
+      Nun muss noch der Download-Pfad nach Wunsch gesetzt werden, in dem alle empfangenen Dateien gespeichert werden, im Beispiel ist ein Pfad vorgegeben: 
+    </p>
+    <pre>
+	  /set dcc_download_path /home/beispieluser/Anime/
+    </pre>
+    <p>
+      Damit ist die grundlegende Einrichtung abgeschlossen! Wird nun eine Datei zugesendet, nimmt irssi diese automatisch an, und setzt die &Uuml;bertragung auch fort, falls die Datei schon (mit kleinerer Gr&ouml;&szlig;e) existiert.
+    </p>
+    <h1>Verbindung aufbauen (jedes Mal)</h1>
+    <p>
+      Zun&auml;chst m&uuml;ssen die &quot;Serverdaten&quot; bekannt sein. Im Folgenden sind alle relevanten Daten, damit die Anleitung allgemein gehalten werden kann, durch ${VARIABLENNAME} gekennzeichnet. Optionale Parameter, die nicht immer n&ouml;tig sind, werden durch $[OPTIONAL] dargestellt. Damit ergeben sich folgende Befehle: 
+    </p>
+    <pre>
+      /connect ${IRC_SERVER_URL}<br />
+      /j ${CHANNEL_NAME} $[CHANNEL_PASSWORD]<br />
+    </pre>
+    <p>
+      Nun kann der betreffende Bot, der Dateien anbietet, angeschrieben werden. Dazu hier eine kleine Liste der verbreiteten Kommandos:
+    </p>
+    <table width="100%">
+      <colgroup>
+	<col width="4*" />
+	<col width="1*" />
+	<col width="4*" />
+      </colgroup>
+      <tr>
+	<td>Paketliste herunterladen / anzeigen:</td>
+	<td></td>
+	<td>/msg ${BOT_NAME} XDCC list</td>
+      </tr>
+      <tr>
+	<td>Paket anfordern:</td>
+	<td></td>
+	<td>/msg ${BOT_NAME} XDCC send ${PAKETNUMMER}</td>
+      </tr>
+      <tr>
+	<td>Pakete als Block anfordern (geht nicht immer):</td>
+	<td></td>
+	<td>/msg ${BOT_NAME} XDCC send ${PAKETNUMMER1}-${PAKETNUMMER2}</td>
+      </tr>
+    </table>
+    <p>
+      Dar&uuml;ber hinaus ist die Paketliste meist auch als Paket 1, 0 oder -1 verf&uuml;gbar. 
+    </p>
+    <h1>Vorgang &uuml;berwachen</h1>
+    <p>
+      Um den Vorgang zu &uuml;berwachen, ist ein wenig Navigation in irssi ganz hilfreich. Dazu kann man sich vorstellen, dass alle &quot;Chatfenster&quot; einzelne Tabs sind, zwischen denen gewechselt werden kann. Dazu funktionieren die Kombinationen &quot;ALT+Pfeiltaste&quot; oder direkt &quot;ALT+Ziffer&quot;. Das erste Fenster ist stets das Server-Fenster, hier tauchen gesendete Dateien auf. Mit dem Kommando
+    </p>
+    <pre>
+      /dcc
+    </pre>
+    <p>
+      erscheint hier der Status der aktuellen &Uuml;bertragungen.
+    </p>
+    <p>
+      <a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-xhtml11" alt="Valid XHTML 1.1" height="31" width="88" /></a>
+    </p>
+  </body>
+</html>

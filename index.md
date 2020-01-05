@@ -12,6 +12,7 @@ and some collected technical information in form of a knowledgebase.
 - [LaTeX Graphics]({{ site.my_github_url }}/latex-graphics), a set of macros and scripts for [LaTeX](https://en.wikipedia.org/wiki/LaTeX) to natively create graphics from [Gnuplot](http://gnuplot.sourceforge.net/), [ROOT](https://root.cern.ch), [Inkscape](https://inkscape.org/) and more directly calling these tools from [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
 - [alienfx]({{ site.my_github_url }}/alienfx), an experimental CLI tool to control the RGB LED microcontroller on Dell / Alienware machines
 - [dockerhub2oci]({{ site.my_github_url }}/dockerhub2oci), a simple tool to pull data from [dockerhub](https://hub.docker.com/) and create a flat [OCI](https://www.opencontainers.org/)-style container image from that
+- [IRC XDCC tutorial]({{ site.url }}/tutorials/ircintro.html), a small tutorial on how to use XDCC with [irssi](https://irssi.org/) on [Gentoo Linux](https://gentoo.org/) (German)
 
 ### Knowledgebase
 {% for page in site.knowledgebase %}
