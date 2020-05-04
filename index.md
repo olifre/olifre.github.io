@@ -8,6 +8,7 @@ and some collected technical information in form of a knowledgebase.
 - [Puppet HTCondor](https://github.com/HEP-Puppet/htcondor), a [Puppet](https://puppet.com/) module for the [HTCondor](https://research.cs.wisc.edu/htcondor/) workload management system I am co-maintaining
 - [Open-source media player mpv](https://mpv.io/), I am maintaining the [DVB](https://en.wikipedia.org/wiki/Digital_Video_Broadcasting) related parts
 - [My personal Gentoo portage overlay](https://github.com/olifre/olifre-portage) Contains some random, mostly scientific, packages, use at your own risk
+- [Packages in Gentoo portage tree](https://repology.org/projects/?maintainer=o.freyermuth%40googlemail.com&inrepo=gentoo&newest=1) I'm proxy-maintaining some, mostly scientific packages in Gentoo's official portage tree
 - [rootStaticAnalyzer]({{ site.my_github_url }}/rootStaticAnalyzer/), a not-so-static analyzer for [ROOT](https://root.cern.ch) based projects
 - [pgToSqlite](https://github.com/BGO-OD/pgToSqlite), a C++ tool to dump a PostgreSQL database into an SQLite3 DB with optional filtering, large object treatment and handling of special data types. Makes use of the [OptionParser}(https://github.com/BGO-OD/OptionParser/) library.
 - [ROOT I/O Bench]({{ site.my_github_url }}/root-io-bench), a simple benchmarking tool using [ROOT](https://root.cern.ch) I/O
