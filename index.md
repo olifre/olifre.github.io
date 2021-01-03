@@ -11,6 +11,7 @@ and some collected technical information in form of a knowledgebase.
 - [My personal Gentoo portage overlay](https://github.com/olifre/olifre-portage) Contains some random, mostly scientific, packages, use at your own risk
 - [Packages in Gentoo portage tree](https://repology.org/projects/?maintainer=o.freyermuth%40googlemail.com&inrepo=gentoo) I'm proxy-maintaining some, mostly scientific packages in Gentoo's official portage tree
 - [Packages in Gentoo's GURU overlay](https://repology.org/projects/?maintainer=o.freyermuth%40googlemail.com&inrepo=gentoo_ovl_guru) I'm maintaining and / or co-maintaining various packages in Gentoo's [GURU overlay](https://wiki.gentoo.org/wiki/Project:GURU)
+- [Packages in Gentoo's Science overlay](https://repology.org/projects/?maintainer=o.freyermuth%40googlemail.com&inrepo=gentoo_ovl_science) I'm maintaining and / or co-maintaining various packages in Gentoo's [Science overlay](https://wiki.gentoo.org/wiki/Project:Science)
 - [rootStaticAnalyzer]({{ site.my_github_url }}/rootStaticAnalyzer/), a not-so-static analyzer for [ROOT](https://root.cern.ch) based projects
 - [pgToSqlite](https://github.com/BGO-OD/pgToSqlite), a C++ tool to dump a PostgreSQL database into an SQLite3 DB with optional filtering, large object treatment and handling of special data types. Makes use of the [OptionParser}(https://github.com/BGO-OD/OptionParser/) library.
 - [ROOT I/O Bench]({{ site.my_github_url }}/root-io-bench), a simple benchmarking tool using [ROOT](https://root.cern.ch) I/O
