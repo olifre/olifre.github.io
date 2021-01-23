@@ -27,3 +27,4 @@ and some collected technical information in form of a knowledgebase.
 
 ### Other projects
 - [LifeLines]({{ site.url }}/lifelines/), a personal, somewhat poetic blog
+- [My Books]({{ site.url }}/mybooks/), a collection of personal and original other writing projects
