@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="18.483469mm"
+   height="18.483469mm"
+   viewBox="0 0 18.483469 18.483469"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0beta2 (2b71d25d45, 2019-12-03)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="favicon.svg"
    inkscape:export-filename="/home/olifre/gits/olifre.github.io/favicon/favicon.png"
    inkscape:export-xdpi="87.948853"
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.0605752"
-     inkscape:cx="196.06906"
-     inkscape:cy="71.866613"
+     inkscape:cx="173.78048"
+     inkscape:cy="50.048093"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -39,10 +39,14 @@
      inkscape:bbox-paths="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1021"
+     inkscape:window-height="1023"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -51,14 +55,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-5.8971872,-5.7728167)">
     <rect
        style="fill:#000000;stroke-width:1.00012;stroke-linecap:round;stroke-linejoin:bevel"
        id="rect833"
@@ -70,7 +75,7 @@
        rx="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2278px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#921f98;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2278px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#921f98;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="8.7045984"
        y="20.645597"
        id="text837"><tspan
@@ -78,6 +83,6 @@
          id="tspan835"
          x="8.7045984"
          y="20.645597"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold';fill:#921f98;fill-opacity:1;stroke-width:0.264583px;">O</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold';fill:#921f98;fill-opacity:1;stroke-width:0.264583px">O</tspan></text>
   </g>
 </svg>
