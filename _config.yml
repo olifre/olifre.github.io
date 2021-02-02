@@ -11,3 +11,13 @@ collections:
   knowledgebase:
     output: true
     permalink: /:collection/:title/
+
+plugins:
+  - jekyll-sitemap
+
+# Exclude Google site verification.
+defaults:
+  - scope:
+      path: "google*.html"
+    values:
+      sitemap: false
