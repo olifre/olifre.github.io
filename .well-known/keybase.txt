@@ -1,0 +1,50 @@
+I hereby claim:
+
+  * I am an admin of https://olifre.github.io
+  * I am olifre (https://keybase.io/olifre) on keybase.
+  * I have a public key ASBOOq9NKbE4-qQmBBbUrDh80HezDF6VRIshMbzQ2sWCOAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d488685bb75d252215bc5e6d4f4915070d29d2cd14143ed657a1c3fab48015600a",
+      "host": "keybase.io",
+      "kid": "01204e3aaf4d29b138faa4260416d4ac387cd077b30c5e95448b2131bcd0dac582380a",
+      "uid": "14e1d1997dd795fd44583b4ea64c5119",
+      "username": "olifre"
+    },
+    "merkle_root": {
+      "ctime": 1612730733,
+      "hash": "a5a9b8ddb495daff517bbda99ac8353ccb7d2f57128c27feb1b0b6a93ba30ec19e3fd3dd67cbf4a8e66a35b2d66dbb4e12b1babfc430c6a173fce7e57d9517d5",
+      "hash_meta": "a058e0da546685f65ee112fbc53a7ffcc10198a6bf03d92b883560140b87f0fb",
+      "seqno": 19040765
+    },
+    "service": {
+      "entropy": "sq1tT71ZcW4c+hmtk49jVaHs",
+      "hostname": "olifre.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1612730751,
+  "expire_in": 504576000,
+  "prev": "5689836bdd6d4b1cc6447c05ee8b0c2261e1b2d1d03dd6847ce82cdfbe6c0230",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTjqvTSmxOPqkJgQW1Kw4fNB3swxelUSLITG80NrFgjgKp3BheWxvYWTESpcCEMQgVomDa91tSxzGRHwF7osMImHhstHQPdaEfOgs375sAjDEICZhCXYhJ1YddSi52qi8KRl81dM2ueJwO2WFf86C5QfTAgHCo3NpZ8RAJKhFjHbw5fPZPvxcWYIKB0AOpLq40tgtdpfqs/xFpoq96gYOfQFq0VxtbUAbuGlMQTjGQUNDQYdERQF8N6VyBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEx+UnYJ8Ukw0UOaNzOPuB8E/5+Woct/WI06emT7DZg4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/olifre
