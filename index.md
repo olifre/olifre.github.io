@@ -1,7 +1,8 @@
 # Welcome
 
-This page is a collection of some of the projects I am working on,
-and some collected technical information in form of a knowledgebase.
+My name is Oliver Freyermuth. You can find my Keybase identity [here](https://keybase.io/olifre). 
+
+This page is a collection of some of the projects I am working on, and some collected technical information in form of a knowledgebase. 
 
 ### Links to technical projects
 - [An HTCondor tutorial]({{ site.url }}/gridka-school-2019-htcondor/), made for [GridKa School 2019](https://indico.scc.kit.edu/event/460/overview)
