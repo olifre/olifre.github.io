@@ -1,6 +1,8 @@
 # Welcome
 
-My name is Oliver Freyermuth. You can find my Keybase identity [here](https://keybase.io/olifre). 
+My name is Oliver Freyermuth. 
+- [Keybase identity](https://keybase.io/olifre) 
+- [ORCID](https://orcid.org/0000-0001-8053-6283)
 
 This page is a collection of some of the projects I am working on, and some collected technical information in form of a knowledgebase. 
 
