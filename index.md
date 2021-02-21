@@ -22,6 +22,7 @@ This page is a collection of some of the projects I am working on, and some coll
 - [alienfx]({{ site.my_github_url }}/alienfx), an experimental CLI tool to control the RGB LED microcontroller on Dell / Alienware machines
 - [dockerhub2oci]({{ site.my_github_url }}/dockerhub2oci), a simple tool to pull data from [dockerhub](https://hub.docker.com/) and create a flat [OCI](https://www.opencontainers.org/)-style container image from that
 - [IRC XDCC tutorial]({{ site.url }}/tutorials/ircintro.html), a small tutorial on how to use XDCC with [irssi](https://irssi.org/) on [Gentoo Linux](https://gentoo.org/) (German)
+- [UserCSS for browsers]({{ site.my_github_url }}/userstyles), collected user CSS styles for usage e.g. with [Stylus](https://addons.mozilla.org/de/firefox/addon/styl-us/)
 
 ### Knowledgebase
 {% for page in site.knowledgebase %}
