@@ -1,10 +1,14 @@
 # Welcome
 
 My name is Oliver Freyermuth. 
-- [Keybase identity](https://keybase.io/olifre) 
-- [ORCID](https://orcid.org/0000-0001-8053-6283)
 
-This page is a collection of some of the projects I am working on, and some collected technical information in form of a knowledgebase. 
+- [ORCID](https://orcid.org/0000-0001-8053-6283)
+- [Keybase identity](https://keybase.io/olifre) 
+
+This page is a collection of some of the projects I work on, and some collected technical information in form of a knowledgebase. 
+
+### Publications
+My publications are collected on the following [separate page](publications).
 
 ### Links to technical projects
 - [An HTCondor tutorial]({{ site.url }}/gridka-school-2019-htcondor/), made for [GridKa School 2019](https://indico.scc.kit.edu/event/460/overview)
@@ -28,9 +32,6 @@ This page is a collection of some of the projects I am working on, and some coll
 {% for page in site.knowledgebase %}
 - [{{ page.title }}: {{ page.subtitle }}]({{ page.url }})
 {% endfor %}
-
-### Publications
-My publications are collected on the following [separate page](publications).
 
 ### Other projects
 - [LifeLines]({{ site.url }}/lifelines/), a personal, somewhat poetic blog
