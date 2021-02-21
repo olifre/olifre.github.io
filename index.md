@@ -2,8 +2,8 @@
 
 My name is Oliver Freyermuth. 
 
-- [ORCID](https://orcid.org/0000-0001-8053-6283)
-- [Keybase identity](https://keybase.io/olifre) 
+- [ORCID](https://orcid.org/0000-0001-8053-6283){:target="_blank"}
+- [Keybase identity](https://keybase.io/olifre){:target="_blank"}
 - [My Publications](publications)
 
 This page is a collection of some of the projects I work on, and some collected technical information in form of a knowledgebase. 
