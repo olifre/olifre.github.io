@@ -1,5 +1,7 @@
 theme: jekyll-theme-midnight
 
+repository: olifre/olifre.github.io
+
 #title: olifre.github.io
 description: Collection of my Projects
 show_downloads: false
