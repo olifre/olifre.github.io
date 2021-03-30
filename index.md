@@ -25,6 +25,7 @@ This page is a collection of some of the projects I work on, and some collected 
 - [dockerhub2oci]({{ site.my_github_url }}/dockerhub2oci), a simple tool to pull data from [dockerhub](https://hub.docker.com/) and create a flat [OCI](https://www.opencontainers.org/)-style container image from that
 - [IRC XDCC tutorial]({{ site.url }}/tutorials/ircintro.html), a small tutorial on how to use XDCC with [irssi](https://irssi.org/) on [Gentoo Linux](https://gentoo.org/) (German)
 - [UserCSS for browsers]({{ site.my_github_url }}/userstyles), collected user CSS styles for usage e.g. with [Stylus](https://add0n.com/stylus.html)
+- [UserScripts for browsers]({{ site.my_github_url }}/userscripts), collected user JS scripts for usage e.g. with [Greasemonkey](https://wiki.greasespot.net/Greasemonkey)
 - [dnstwist-tester]({{ site.my_github_url }}/dnstwist-tester), a GitHub actions workflow scanning a few domains with [dnstwist](https://github.com/elceef/dnstwist) at least daily and presenting the [results]({{ site.url }}/dnstwist-tester/)
 
 ### Knowledgebase
