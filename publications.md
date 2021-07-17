@@ -9,9 +9,14 @@ Most publications are also linked to my ORCID:
 
 # IT
 
+* __Unleashing JupyterHub: Exploiting resources without inbound network connectivity using HTCondor__  
+_2021-XX_ --- Oliver Freyermuth, Katrin Kohl, Peter Wienemann  
+Computing and Software for Big Science  
+_in review, to be accepted for publication_
+
 * __Operating an HPC/HTC Cluster with Fully Containerized Jobs Using HTCondor, Singularity, CephFS and CVMFS__  
 _2021-03_ --- Oliver Freyermuth, Peter Wienemann, Philip Bechtle & Klaus Desch  
-Computing and Software for Big Science   
+Computing and Software for Big Science  
 published with OpenAccess: [DOI](https://doi.org/10.1007/s41781-020-00050-y)
 
 # Physics
