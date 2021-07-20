@@ -7,7 +7,7 @@ Most publications are also linked to my ORCID:
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-8053-6283" href="https://orcid.org/0000-0001-8053-6283" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-8053-6283</a></div>
 <br />
 
-# IT
+## IT
 
 * __Unleashing JupyterHub: Exploiting resources without inbound network connectivity using HTCondor__  
 _2021-XX_ --- Oliver Freyermuth, Katrin Kohl, Peter Wienemann  
@@ -19,7 +19,7 @@ _2021-03_ --- Oliver Freyermuth, Peter Wienemann, Philip Bechtle & Klaus Desch
 Computing and Software for Big Science  
 published with OpenAccess: [DOI](https://doi.org/10.1007/s41781-020-00050-y)
 
-# Physics
+## Physics
 
 ### PhD Thesis
 
