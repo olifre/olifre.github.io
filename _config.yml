@@ -1,7 +1,10 @@
 theme: jekyll-theme-midnight
 
 title: Oliver Freyermuth
-description: A collection of my projects
+tagline: A collection of my projects
+description: >-
+  This personal page of Oliver Freyermuth is a collection of some of the projects he works on,
+  and shares some collected technical information in form of a knowledgebase.
 show_downloads: false
 google_analytics:
 
