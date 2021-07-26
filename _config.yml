@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+remote_theme: "pages-themes/midnight@v0.2.0"
 
 title: Oliver Freyermuth
 tagline: A collection of my projects
@@ -17,6 +17,7 @@ collections:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 # Exclude Google site verification.
 defaults:
