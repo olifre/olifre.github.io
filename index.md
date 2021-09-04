@@ -3,7 +3,7 @@
 My name is Oliver Freyermuth. 
 
 - [My ORCID](https://orcid.org/0000-0001-8053-6283){:target="_blank"}
-- [My INSPIRE-HEP profile](https://inspirehep.net/literature?q=a%20O.Freyermuth.2){:target="_blank"}
+- [My INSPIRE-HEP profile](https://inspirehep.net/authors/1908125){:target="_blank"}
 - [Keybase identity](https://keybase.io/olifre){:target="_blank"}
 - [My Publications](publications)
 
