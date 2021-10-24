@@ -12,9 +12,9 @@ You may also want to check my [INSPIRE-HEP profile](https://inspirehep.net/autho
 ## IT
 
 * __Unleashing JupyterHub: Exploiting resources without inbound network connectivity using HTCondor__  
-_2021-XX_ --- Oliver Freyermuth, Katrin Kohl, Peter Wienemann  
+_2021-10_ --- Oliver Freyermuth, Katrin Kohl, Peter Wienemann  
 Computing and Software for Big Science  
-_in review, to be accepted for publication_
+published with OpenAccess: [DOI](https://doi.org/10.1007/s41781-021-00063-1)
 
 * __Operating an HPC/HTC Cluster with Fully Containerized Jobs Using HTCondor, Singularity, CephFS and CVMFS__  
 _2021-03_ --- Oliver Freyermuth, Peter Wienemann, Philip Bechtle & Klaus Desch  
