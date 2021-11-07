@@ -16,6 +16,11 @@ _2021-10_ --- Oliver Freyermuth, Katrin Kohl, Peter Wienemann
 Computing and Software for Big Science  
 published with OpenAccess: [DOI](https://doi.org/10.1007/s41781-021-00063-1)
 
+* __Transparent Integration of Opportunistic Resources into the WLCG Compute Infrastructure__  
+_2021-08_ --- Michael Böhler, René Caspart, Max Fischer, Oliver Freyermuth, Manuel Giffels, Stefan Kroboth, Eileen Kuehn, Matthias Schnepf, Florian von Cube, Peter Wienemann  
+EPJ Web of Conferences  
+published with OpenAccess: [DOI](https://doi.org/10.1051/epjconf/202125102039)
+
 * __Operating an HPC/HTC Cluster with Fully Containerized Jobs Using HTCondor, Singularity, CephFS and CVMFS__  
 _2021-03_ --- Oliver Freyermuth, Peter Wienemann, Philip Bechtle & Klaus Desch  
 Computing and Software for Big Science  
