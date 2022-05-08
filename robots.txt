@@ -1,0 +1,5 @@
+User-Agent: *
+
+Disallow:
+
+Sitemap: https://olifre.github.io/sitemap-index.xml
