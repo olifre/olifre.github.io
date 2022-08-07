@@ -14,6 +14,7 @@ This page is a collection of some of the projects I work on, and some collected 
 - [An updated HTCondor tutorial with Uni Bonn specifics](https://unibonn.github.io/htcondor-bonn/)
 - [Puppet HTCondor](https://github.com/HEP-Puppet/htcondor), a [Puppet](https://puppet.com/) module for the [HTCondor](https://research.cs.wisc.edu/htcondor/) workload management system I am co-maintaining
 - [Open-source media player mpv](https://mpv.io/), I am maintaining the [DVB](https://en.wikipedia.org/wiki/Digital_Video_Broadcasting) related parts
+- [Vapoursynth portage overlay for Gentoo](https://github.com/4re/vapoursynth-portage), I am contributing and (sometimes) co-maintaining the Gentoo Vapoursynth overlay (Video filters)
 - [My personal Gentoo portage overlay](https://github.com/olifre/olifre-portage) Contains some random, mostly scientific, packages, use at your own risk
 - [Packages in Gentoo portage tree](https://repology.org/projects/?maintainer=o.freyermuth%40googlemail.com&inrepo=gentoo) I'm proxy-maintaining some, mostly scientific packages in Gentoo's official portage tree
 - [Packages in Gentoo's GURU overlay](https://repology.org/projects/?maintainer=o.freyermuth%40googlemail.com&inrepo=gentoo_ovl_guru) I'm maintaining and / or co-maintaining various packages in Gentoo's [GURU overlay](https://wiki.gentoo.org/wiki/Project:GURU)
