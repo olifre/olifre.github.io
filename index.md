@@ -24,6 +24,7 @@ This page is a collection of some of the projects I work on, and some collected 
 - [ROOT I/O Bench]({{ site.my_github_url }}/root-io-bench), a simple benchmarking tool using [ROOT](https://root.cern.ch) I/O
 - [LaTeX Graphics]({{ site.my_github_url }}/latex-graphics), a set of macros and scripts for [LaTeX](https://en.wikipedia.org/wiki/LaTeX) to natively create graphics from [Gnuplot](http://gnuplot.sourceforge.net/), [ROOT](https://root.cern.ch), [Inkscape](https://inkscape.org/) and more directly calling these tools from [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
 - [alienfx]({{ site.my_github_url }}/alienfx), an experimental CLI tool to control the RGB LED microcontroller on Dell / Alienware machines
+- [afc]({{ site.my_github_url }}/afc), a simple CRC32 file checker
 - [dockerhub2oci]({{ site.my_github_url }}/dockerhub2oci), a simple tool to pull data from [dockerhub](https://hub.docker.com/) and create a flat [OCI](https://www.opencontainers.org/)-style container image from that
 - [IRC XDCC tutorial]({{ site.url }}/tutorials/ircintro.html), a small tutorial on how to use XDCC with [irssi](https://irssi.org/) on [Gentoo Linux](https://gentoo.org/) (German)
 - [UserCSS for browsers]({{ site.my_github_url }}/userstyles), collected user CSS styles for usage e.g. with [Stylus](https://add0n.com/stylus.html)
