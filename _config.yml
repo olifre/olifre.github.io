@@ -25,10 +25,3 @@ defaults:
       path: "google*.html"
     values:
       sitemap: false
-
-jekyll_sitemap:
-  index:
-    filename: sitemap-index.xml
-    linked_sitemaps:
-      - https://olifre.github.io/lifelines/sitemap.xml
-      - https://olifre.github.io/mybooks/sitemap.xml
