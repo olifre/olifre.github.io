@@ -12,6 +12,7 @@ This page is a collection of some of the projects I work on, and some collected 
 ### Links to technical projects
 - [An HTCondor tutorial]({{ site.url }}/gridka-school-2019-htcondor/), made for [GridKa School 2019](https://indico.scc.kit.edu/event/460/overview)
 - [An updated HTCondor tutorial with Uni Bonn specifics](https://unibonn.github.io/htcondor-bonn/)
+- [Instructions on how to install tools for data analysis (German)](https://unibonn.github.io/datenauswertung-install/), built from [this repo](https://github.com/unibonn/datenauswertung-install)
 - [Puppet HTCondor](https://github.com/HEP-Puppet/htcondor), a [Puppet](https://puppet.com/) module for the [HTCondor](https://research.cs.wisc.edu/htcondor/) workload management system I am co-maintaining
 - [Open-source media player mpv](https://mpv.io/), I am maintaining the [DVB](https://en.wikipedia.org/wiki/Digital_Video_Broadcasting) related parts
 - [Vapoursynth portage overlay for Gentoo](https://github.com/4re/vapoursynth-portage), I am contributing and (sometimes) co-maintaining the Gentoo Vapoursynth overlay (Video filters)
