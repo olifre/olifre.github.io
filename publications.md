@@ -11,6 +11,11 @@ You may also want to check my [INSPIRE-HEP profile](https://inspirehep.net/autho
 
 ## IT
 
+* __Energy Efficiency trends in HPC: what high-energy and astrophysicists need to know__  
+_2025-04_ --- Estela Suarez, Jorge Amaya, Martin Frank, Oliver Freyermuth, Maria Girone, Bartosz Kostrzewa, Susanne Pfalzner  
+Frontiers in Physics  
+published with OpenAccess: [DOI](https://doi.org/10.3389/fphy.2025.1542474)
+
 * __Unleashing JupyterHub: Exploiting resources without inbound network connectivity using HTCondor__  
 _2021-10_ --- Oliver Freyermuth, Katrin Kohl, Peter Wienemann  
 Computing and Software for Big Science  
