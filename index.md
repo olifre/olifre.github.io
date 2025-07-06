@@ -31,6 +31,7 @@ This page is a collection of some of the projects I work on, and some collected 
 - [UserCSS for browsers]({{ site.my_github_url }}/userstyles), collected user CSS styles for usage e.g. with [Stylus](https://add0n.com/stylus.html)
 - [UserScripts for browsers]({{ site.my_github_url }}/userscripts), collected user JS scripts for usage e.g. with [Greasemonkey](https://wiki.greasespot.net/Greasemonkey)
 - [dnstwist-tester]({{ site.my_github_url }}/dnstwist-tester), a GitHub actions workflow scanning a few domains with [dnstwist](https://github.com/elceef/dnstwist) at least daily and presenting the [results]({{ site.url }}/dnstwist-tester/)
+- [DS Lite VPS forwarder]({{ site.my_github_url }}/ds-lite-vps-forwarder),  DS-Lite VPS forwarder to send IPv4+IPv6 traffic through a dual stack VPS to an IPv6 only target
 - [Vox Pupuli](https://voxpupuli.org/), a collective of Puppet module, tooling and documentation authors which I am part of
 
 ### Knowledgebase
