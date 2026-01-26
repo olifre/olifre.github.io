@@ -36,8 +36,8 @@ This page is a collection of some of the projects I work on, and some collected 
 - [Vox Pupuli](https://voxpupuli.org/), a collective of Puppet module, tooling and documentation authors which I am part of
 
 ### Knowledgebase
-{% for page in site.knowledgebase %}
-- [{{ page.title }}: {{ page.subtitle }}]({{ page.url }})
+{% for page in site.knowledgebase -%}
+- [{{ page.title }}]({{ page.url }}): {{ page.subtitle }}
 {% endfor %}
 
 ### Other projects
