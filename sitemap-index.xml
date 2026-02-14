@@ -9,4 +9,7 @@
    <sitemap>
       <loc>https://olifre.github.io/mybooks/sitemap.xml</loc>
    </sitemap>
+   <sitemap>
+      <loc>https://olifre.github.io/archlinux-opinionated/sitemap.xml</loc>
+   </sitemap>
 </sitemapindex>
