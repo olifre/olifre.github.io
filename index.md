@@ -11,6 +11,7 @@ This page is a collection of some of the projects I work on, and some collected 
 
 ### Links to technical projects
 - [Installing ArchLinux the opinionated way]({{ site.url }}/archlinux-opinionated/), similar to official instructions, but with some opinionated decisions, use at your own risk!
+- [My Conky themes](https://github.com/olifre/conky-themes), a collection of conky themes I use.
 - [An HTCondor tutorial]({{ site.url }}/gridka-school-2019-htcondor/), made for [GridKa School 2019](https://indico.scc.kit.edu/event/460/overview)
 - [An updated HTCondor tutorial with Uni Bonn specifics](https://unibonn.github.io/htcondor-bonn/)
 - [Instructions on how to install tools for data analysis (German)](https://unibonn.github.io/datenauswertung-install/), built from [this repo](https://github.com/unibonn/datenauswertung-install)
