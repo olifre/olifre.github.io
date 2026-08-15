@@ -1,0 +1,8 @@
+{{- $baseParam := site.Param (.Get 0) -}}
+{{- $subPath := .Get 1 -}}
+
+{{- if $subPath -}}
+  {{- printf "%s/%s" (strings.TrimSuffix "/" $baseParam) (strings.TrimPrefix "/" $subPath) | safeURL -}}
+{{- else -}}
+  {{- $baseParam | safeURL -}}
+{{- end -}}

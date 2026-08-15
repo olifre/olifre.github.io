@@ -1,0 +1,3 @@
+{{- $subpage := .Get 0 -}}
+{{- $user := .Get 1 | default site.Params.myGhUser -}}
+https://{{ $user }}.github.io/{{ $subpage }}
