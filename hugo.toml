@@ -14,16 +14,15 @@ title = "Oliver Freyermuth"
 
   myGhUser = "olifre"
 
-  customCSS = ["css/custom.css"]
-
   accentColor = "darkgoldenrod"
   #accentColor = "#ffeb9b"
   showBackToTopButton = true
   togglePreviousAndNextButtons = true
   displayReadingTime = true
 
+  relativeURLs = true
   customHeadHTML = """
-    <link rel="stylesheet" type="text/css" href="/css/custom.css" />
+    <link rel="stylesheet" type="text/css" href="css/custom.css" />
 """
 
 [menu]
