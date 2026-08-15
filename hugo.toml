@@ -22,7 +22,7 @@ title = "Oliver Freyermuth"
 
   relativeURLs = true
   customHeadHTML = """
-    <link rel="stylesheet" type="text/css" href="css/custom.css" />
+    <link rel="stylesheet" type="text/css" href="/css/custom.css" />
 """
 
 [menu]
