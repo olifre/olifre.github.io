@@ -1,0 +1,2 @@
+{{- $orcid_id := .Get 0 -}}
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/{{ $orcid_id }}" href="https://orcid.org/{{ $orcid_id }}" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="{{ "svg/icons/ORCID-iD_icon_vector.svg" | relURL }}" style="width:1em;margin-right:.5em;display:inline;" alt="ORCID iD icon">https://orcid.org/{{ $orcid_id }}</a></div>

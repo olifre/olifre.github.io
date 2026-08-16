@@ -11,6 +11,10 @@ title = "Oliver Freyermuth"
   description = "A collection of my projects"
   footer = "Oliver Freyermuth"
   metaKeywords = ["blog", "personal"]
+  socialIcons = [
+    {name = "keybase", url = "https://keybase.io/olifre"},
+    {name = "stackoverflow", url = "https://stackoverflow.com/users/9679188/oliver-freyermuth"},
+  ]
 
   myGhUser = "olifre"
 
@@ -78,5 +82,5 @@ title = "Oliver Freyermuth"
 [minify]
     minifyOutput = true
 
-[markup.goldmark.renderer]
-    unsafe = true
+#[markup.goldmark.renderer]
+#    unsafe = true
