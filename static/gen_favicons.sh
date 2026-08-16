@@ -28,4 +28,7 @@ for filename in "${!ICONS[@]}"; do
   advpng -z4 "$filename" > /dev/null
 done
 
+echo "Creating multi-resolution favicon.ico using ImageMagick..."
+magick favicon-16x16.png favicon-32x32.png favicon.ico
+
 echo "Done! All icons created successfully."
