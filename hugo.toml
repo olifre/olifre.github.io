@@ -26,7 +26,6 @@ title = "Oliver Freyermuth"
 
   relativeURLs = true
   customHeadHTML = """
-    <link rel="stylesheet" type="text/css" href="/olifre-new.github.io/css/custom.css" />
 """
 
 [menu]
