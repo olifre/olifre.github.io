@@ -9,3 +9,9 @@ a {
   color: inherit;
   color: color-mix(in srgb, currentColor 75%, darkgoldenrod);
 }
+.post .post-date, .prev-post-date, .next-post-date {
+  color: color-mix(in srgb, currentColor 35%, gray);
+}
+blockquote {
+  color: color-mix(in srgb, currentColor 35%, gray);
+}

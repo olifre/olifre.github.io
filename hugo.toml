@@ -3,7 +3,7 @@ defaultContentLanguage = "en"
 localte = "en-us"
 enableEmoji = true
 enableRobotsTXT = true
-pygmentsStyle = "solarized-dark"
+pygmentsStyle = "zenburn"
 theme = "gokarna"
 title = "Oliver Freyermuth"
 
