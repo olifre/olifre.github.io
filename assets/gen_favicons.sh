@@ -14,9 +14,9 @@ declare -A ICONS=(
   ["apple-touch-icon.png"]="180"
   ["favicon-32x32.png"]="32"
   ["favicon-16x16.png"]="16"
-  ["mstile-150x150.png"]="150"
-  ["android-chrome-192x192.png"]="192"
-  ["android-chrome-512x512.png"]="512"
+# ["mstile-150x150.png"]="150"
+# ["android-chrome-192x192.png"]="192"
+# ["android-chrome-512x512.png"]="512"
 )
 
 # Loop through each target and convert
