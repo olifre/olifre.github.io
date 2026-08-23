@@ -42,7 +42,7 @@ work performed at the [Physikalisches Institut](https://www.pi.uni-bonn.de/) at 
 published with OpenAccess: [Handle URI](https://hdl.handle.net/20.500.11811/7263) or
 [URN](https://nbn-resolving.org/urn:nbn:de:hbz:5n-48397)
 
-### Within the [BGOOD Collaboration](https://bgo-od.physik.uni-bonn.de/)
+### Within the [BGOOD Collaboration](https://www.pi.uni-bonn.de/bgood)
 
 * __The BGOOD experimental setup at ELSA__  
 _2020_ --- The BGOOD Collaboration  
