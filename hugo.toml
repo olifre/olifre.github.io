@@ -16,6 +16,10 @@ title = "Oliver Freyermuth"
     {name = "stackoverflow", url = "https://stackoverflow.com/users/9679188/oliver-freyermuth"},
   ]
 
+  avatarAltText = "Avatar Oliver Freyermuth"
+  avatarSize = "size-m"
+  avatarURL = "/images/oliver_freyermuth.webp"
+
   myGhUser = "olifre"
 
   accentColor = "darkgoldenrod"
