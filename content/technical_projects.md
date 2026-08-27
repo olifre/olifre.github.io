@@ -31,16 +31,16 @@ title = 'Links to Technical Projects'
   Contains some random, mostly scientific, packages, use at your own risk.
 
 * **[Packages in Gentoo portage tree](https://repology.org/projects/?maintainer=o.freyermuth%40googlemail.com&inrepo=gentoo)**  
-  I'm proxy-maintaining some, mostly scientific packages in Gentoo's official portage tree.
+  I'm proxy-maintaining some, mostly scientific packages in the official Gentoo portage tree.
 
 * **[Packages in Gentoo's GURU overlay](https://repology.org/projects/?maintainer=o.freyermuth%40googlemail.com&inrepo=gentoo_ovl_guru)**  
-  I'm maintaining and / or co-maintaining various packages in Gentoo's [GURU overlay](https://wiki.gentoo.org/wiki/Project:GURU).
+  I'm maintaining and / or co-maintaining various packages in the Gentoo [GURU overlay](https://wiki.gentoo.org/wiki/Project:GURU).
 
 * **[Packages in Gentoo's Science overlay](https://repology.org/projects/?maintainer=o.freyermuth%40googlemail.com&inrepo=gentoo_ovl_science)**  
-  I'm maintaining and / or co-maintaining various packages in Gentoo's [Science overlay](https://wiki.gentoo.org/wiki/Project:Science).
+  I'm maintaining and / or co-maintaining various packages in the Gentoo [Science overlay](https://wiki.gentoo.org/wiki/Project:Science).
 
 * **[Packages in ArchLinux's AUR](https://repology.org/projects/?maintainer=olifre@aur&inrepo=aur)**  
-  I'm maintaining and / or co-maintaining various packages in ArchLinux's User Repository [AUR](https://aur.archlinux.org/).
+  I'm maintaining and / or co-maintaining various packages in the ArchLinux User Repository [AUR](https://aur.archlinux.org/).
 
 * **[rootStaticAnalyzer]({{< gh "rootStaticAnalyzer" >}})**  
   A not-so-static analyzer for [ROOT](https://root.cern.ch) based projects.
