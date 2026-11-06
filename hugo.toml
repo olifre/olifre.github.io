@@ -32,6 +32,14 @@ title = "Oliver Freyermuth"
   customHeadHTML = """
 """
 
+[outputs]
+  # Activate Search Index feature
+  home = ["HTML", "RSS", "SearchIndex"]
+
+[params.search]
+  # Also index pages, not only posts
+  types = ["post", "page"]
+
 [menu]
   [[menu.main]]
     name = "Technical"
